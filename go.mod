@@ -1,0 +1,3 @@
+module URL_SHORTNER_PROJECT
+
+go 1.22.5
